@@ -1,15 +1,26 @@
 ﻿<Properties StartupConfiguration="{B9E40C18-DBB2-49DA-9AB2-917B39A63C52}|https">
-  <MonoDevelop.Ide.ItemProperties.server PreferredExecutionTarget="/Applications/Arc.app" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.server PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UserController.cs">
     <Files>
-      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/Task.cs" />
+      <File FileName="Models/User.cs" Line="8" Column="14" />
+      <File FileName="Data/TaskifyContext.cs" />
+      <File FileName="Program.cs" Line="24" Column="22" />
+      <File FileName="Controllers/UserController.cs" Line="98" Column="67" />
+      <File FileName="Controllers/TaskController.cs" Line="87" Column="72" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="server" expanded="True">
-            <Node name="server" expanded="True">
-              <Node name="appsettings.json" selected="True" />
+          <Node name="server">
+            <Node name="server">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -17,9 +28,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
